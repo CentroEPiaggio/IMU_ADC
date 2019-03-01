@@ -1,0 +1,16 @@
+C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/DP8051_Keil_951/Release/CyBootAsmKeil.obj : C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/Generated_Source/PSoC3/CyBootAsmKeil.a51 C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/Generated_Source/PSoC3/PSoC3_8051.inc C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/Generated_Source/PSoC3/cydevicekeil.inc C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/Generated_Source/PSoC3/cydevicekeil_trm.inc C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/Generated_Source/PSoC3/cyfitterkeil.inc 
+
+C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/Generated_Source/PSoC3/CyBootAsmKeil.a51 : 
+
+C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/Generated_Source/PSoC3/PSoC3_8051.inc : 
+
+C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/Generated_Source/PSoC3/cydevicekeil.inc : 
+
+C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/Generated_Source/PSoC3/cydevicekeil_trm.inc : 
+
+C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/Generated_Source/PSoC3/cyfitterkeil.inc : 
+
+C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/DP8051_Keil_951/Release/KeilStart.obj : C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/Generated_Source/PSoC3/KeilStart.a51 C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/Generated_Source/PSoC3/PSoC3_8051.inc C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/Generated_Source/PSoC3/cydevicekeil.inc C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/Generated_Source/PSoC3/cydevicekeil_trm.inc C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/Generated_Source/PSoC3/cyfitterkeil.inc 
+
+C:/IMU-API/Firmware\ -\ Versione\ 1.3/firmware.cydsn/Generated_Source/PSoC3/KeilStart.a51 : 
+

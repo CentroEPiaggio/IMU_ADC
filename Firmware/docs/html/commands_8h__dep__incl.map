@@ -1,0 +1,11 @@
+<map id="commands.h" name="commands.h">
+<area shape="rect" id="node2" href="$globals_8h.html" title="Global definitions and macros are set in this file. " alt="" coords="225,80,300,107"/>
+<area shape="rect" id="node4" href="$command__processing_8c.html" title="Command processing functions. " alt="" coords="106,229,266,256"/>
+<area shape="rect" id="node3" href="$command__processing_8h.html" title="Definition of command processing functions. " alt="" coords="182,155,342,181"/>
+<area shape="rect" id="node5" href="$interruptions_8c.html" title="Interruption functions are in this file. " alt="" coords="290,229,394,256"/>
+<area shape="rect" id="node6" href="$main_8c.html" title="Firmware main file. " alt="" coords="418,229,480,256"/>
+<area shape="rect" id="node7" href="$utils_8h.html" title="Definition of utility functions. " alt="" coords="367,155,424,181"/>
+<area shape="rect" id="node8" href="$_i_m_u__functions_8h.html" title="Definition of IMU module functions. " alt="" coords="449,155,564,181"/>
+<area shape="rect" id="node10" href="$globals_8c.html" title="Global variables. " alt="" coords="84,155,158,181"/>
+<area shape="rect" id="node9" href="$_i_m_u__functions_8c.html" title="Implementation of IMU module functions. " alt="" coords="504,229,618,256"/>
+</map>

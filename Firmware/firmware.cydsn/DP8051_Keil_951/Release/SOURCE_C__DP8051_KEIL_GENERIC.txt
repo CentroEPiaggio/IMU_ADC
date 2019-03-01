@@ -1,0 +1,1 @@
+'C:\IMU-API\Firmware - Versione 1.3\firmware.cydsn\command_processing.c' -o .obj -T SOURCE_C__DP8051_KEIL_GENERIC -I 'C:\IMU-API\Firmware - Versione 1.3\firmware.cydsn' -I 'C:\IMU-API\Firmware - Versione 1.3\firmware.cydsn\Generated_Source\PSoC3' -f 'C:\IMU-API\Firmware - Versione 1.3\firmware.cydsn\DP8051_Keil_951\Release\.deps\SOURCE_C__DP8051_KEIL_GENERIC.d'

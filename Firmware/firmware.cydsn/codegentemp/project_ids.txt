@@ -1,0 +1,7 @@
+C:\IMU-API\Firmware - Versione 1.3\firmware.cydsn\firmware.cyprj|da98c70d-6a4a-4fc0-b6d1-762333faee98
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|61374a4a-0460-4e23-b010-6714a2eba15c
+C:\Users\Gaspare\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|9b48a2a6-b3ea-4678-90bf-a17badb4f357
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|38b926af-8dce-44f4-b896-8019c78e5e4b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|5a6d96b8-d16c-4c49-bae4-21a38fba255d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|a664ea35-cf17-4f57-96cb-bf0922f062ec
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|931d51a5-67fe-40d7-ba12-46ebd82958c2
