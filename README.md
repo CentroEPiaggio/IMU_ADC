@@ -7,13 +7,13 @@
 * For support, please refer to: mattia.poggiani at centropiaggio.unipi.it
 *==========================================================================/
 
-IMU
+IMU_ADC
 ===============
 The repository is organized as follows:
 
 1) Firmware
 
-Here you can find the PSoC firmware to be programmed in the IMU board.
+Here you can find the PSoC firmware to be programmed in the IMU board with adc sensing.
 It handles the readings of up to 17 connected IMUs and allows the user to choose 
 which sensors to read.
 Firmware version 1.1 allows to choose between accelerometers, gyroscopes, 
