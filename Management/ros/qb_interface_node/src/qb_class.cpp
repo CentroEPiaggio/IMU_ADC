@@ -946,8 +946,6 @@ void qb_class::sendCurrent(vector<float> current){
 	// Fill structure	
 	read_curr.current = current;
 
-	std::cout << read_curr << std::endl;
-
 	// Publish on right topic
 
 	hand_curr_pub.publish(read_curr);
