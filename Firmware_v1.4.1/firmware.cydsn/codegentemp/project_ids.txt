@@ -1,0 +1,7 @@
+C:\Users\murad\Desktop\IMU-master (1)\IMU-master\Firmware\firmware.cydsn\firmware.cyprj|ef256099-78e4-4934-bf0c-8055246de5ed
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|9719d182-65fb-4f20-ab98-85f8d4d28625
+C:\Users\murad\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|ea492905-f9de-47ff-aaaa-e9de92e12f05
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|a11241f3-8bea-4f7a-8f98-57b33e67c87b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|b45361ef-d7f8-44ed-9394-1a1b386ce5f1
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|9fe04011-534d-4176-bcb7-6c44f7dfe6a2
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|c1943aed-5bd0-495b-9613-29af89ad9865

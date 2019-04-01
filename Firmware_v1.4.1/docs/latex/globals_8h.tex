@@ -1,0 +1,167 @@
+\section{globals.\+h File Reference}
+\label{globals_8h}\index{globals.\+h@{globals.\+h}}
+
+
+Global definitions and macros are set in this file.  
+
+
+{\ttfamily \#include $<$device.\+h$>$}\newline
+{\ttfamily \#include \char`\"{}stdlib.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}math.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}commands.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}utils.\+h\char`\"{}}\newline
+Include dependency graph for globals.\+h\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{globals_8h__incl}
+\end{center}
+\end{figure}
+This graph shows which files directly or indirectly include this file\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{globals_8h__dep__incl}
+\end{center}
+\end{figure}
+\subsection*{Data Structures}
+\begin{DoxyCompactItemize}
+\item 
+struct \textbf{ st\+\_\+data}
+\item 
+struct \textbf{ st\+\_\+mem}
+\item 
+struct \textbf{ st\+\_\+imu}
+\end{DoxyCompactItemize}
+\subsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\label{globals_8h_a1c6d5de492ac61ad29aec7aa9a436bbf}} 
+\#define {\bfseries V\+E\+R\+S\+I\+ON}~\char`\"{}I\+M\+Uboard v 1.\+1\char`\"{}
+\item 
+\mbox{\label{globals_8h_a8e4d7a571850d3268c9b780b171474e6}} 
+\#define {\bfseries N\+\_\+\+I\+M\+U\+\_\+\+M\+AX}~17
+\item 
+\mbox{\label{globals_8h_a160df9a8c910183dfc855b2e6746f6a3}} 
+\#define {\bfseries N\+U\+M\+\_\+\+O\+F\+\_\+\+D\+A\+TA}~5
+\item 
+\mbox{\label{globals_8h_a80db2dce057c92400a7fb1678bc0b0a8}} 
+\#define {\bfseries C\+A\+L\+I\+B\+R\+A\+T\+I\+O\+N\+\_\+\+D\+IV}~10
+\item 
+\mbox{\label{globals_8h_a14df76a41da04070ee775565e8d67e81}} 
+\#define {\bfseries D\+I\+V\+\_\+\+I\+N\+I\+T\+\_\+\+V\+A\+L\+UE}~1
+\item 
+\mbox{\label{globals_8h_abf6c9afec04b86961e177e0646401ace}} 
+\#define {\bfseries D\+M\+A\+\_\+\+B\+Y\+T\+E\+S\+\_\+\+P\+E\+R\+\_\+\+B\+U\+R\+ST}~2
+\item 
+\mbox{\label{globals_8h_ab4613f8bee68bc68fa6fe94a3ae6d568}} 
+\#define {\bfseries D\+M\+A\+\_\+\+R\+E\+Q\+U\+E\+S\+T\+\_\+\+P\+E\+R\+\_\+\+B\+U\+R\+ST}~1
+\item 
+\mbox{\label{globals_8h_a3cc2eedb40809a1f15ad841c8abbcebf}} 
+\#define {\bfseries D\+M\+A\+\_\+\+S\+R\+C\+\_\+\+B\+A\+SE}~(C\+Y\+D\+E\+V\+\_\+\+P\+E\+R\+I\+P\+H\+\_\+\+B\+A\+SE)
+\item 
+\mbox{\label{globals_8h_aa54e301f446a66cbf8c943d920c8e967}} 
+\#define {\bfseries D\+M\+A\+\_\+\+D\+S\+T\+\_\+\+B\+A\+SE}~(C\+Y\+D\+E\+V\+\_\+\+S\+R\+A\+M\+\_\+\+B\+A\+SE)
+\item 
+\mbox{\label{globals_8h_aea55597952638136c7c929b238904c82}} 
+\#define {\bfseries W\+A\+I\+T\+\_\+\+S\+T\+A\+RT}~0
+\item 
+\mbox{\label{globals_8h_a6a6a0bb02e515a094c3e7ea1bcb66fcc}} 
+\#define {\bfseries W\+A\+I\+T\+\_\+\+ID}~1
+\item 
+\mbox{\label{globals_8h_a235d2d0eac7e9af190ebafb84df37fd9}} 
+\#define {\bfseries W\+A\+I\+T\+\_\+\+L\+E\+N\+G\+TH}~2
+\item 
+\mbox{\label{globals_8h_a3b4d8a5e259fa47a909adefcda3bfb80}} 
+\#define {\bfseries R\+E\+C\+E\+I\+VE}~3
+\item 
+\mbox{\label{globals_8h_abf4aedd34d31b63b63061c975d872580}} 
+\#define {\bfseries U\+N\+L\+O\+AD}~4
+\item 
+\mbox{\label{globals_8h_a42c6406a75a89d50c9f1b9c86388565c}} 
+\#define {\bfseries S\+P\+I\+\_\+\+D\+E\+L\+A\+Y\+\_\+\+L\+OW}~10
+\item 
+\mbox{\label{globals_8h_a054002df34537a2a4ff6f520b65f1ba4}} 
+\#define {\bfseries S\+P\+I\+\_\+\+D\+E\+L\+A\+Y\+\_\+\+H\+I\+GH}~100
+\item 
+\mbox{\label{globals_8h_aa93f0eb578d23995850d61f7d61c55c1}} 
+\#define {\bfseries F\+A\+L\+SE}~0
+\item 
+\mbox{\label{globals_8h_aa8cecfc5c5c054d2875c03e77b7be15d}} 
+\#define {\bfseries T\+R\+UE}~1
+\item 
+\mbox{\label{globals_8h_a0f5a7e2ead9cd507bf8fc9a6f785f012}} 
+\#define {\bfseries D\+E\+F\+A\+U\+L\+T\+\_\+\+E\+E\+P\+R\+O\+M\+\_\+\+D\+I\+S\+P\+L\+A\+C\+E\+M\+E\+NT}~8
+\end{DoxyCompactItemize}
+\subsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\label{globals_8h_aa963ce8fafc11e104eb7ee22982d0345}} 
+struct \textbf{ st\+\_\+data} {\bfseries g\+\_\+rx}
+\item 
+\mbox{\label{globals_8h_a44c3cbd8e234e0816f0334e29646a800}} 
+struct \textbf{ st\+\_\+mem} g\+\_\+mem {\bfseries c\+\_\+mem}
+\item 
+\mbox{\label{globals_8h_ad47cd0e4d0fcf5739a88e52e949a8084}} 
+uint32 {\bfseries timer\+\_\+value}
+\item 
+\mbox{\label{globals_8h_a9bab7f1b1cf2ba38d5968eee42644c32}} 
+uint32 {\bfseries timer\+\_\+value0}
+\item 
+\mbox{\label{globals_8h_a1e6fda88dfdabc63859f8907eb702920}} 
+C\+Y\+B\+IT {\bfseries interrupt\+\_\+flag}
+\item 
+\mbox{\label{globals_8h_a47118db87acd24ae6dac18b036f360ec}} 
+uint8 {\bfseries N\+\_\+\+I\+M\+U\+\_\+\+Connected}
+\item 
+\mbox{\label{globals_8h_a99668f3210aba0be3baec19486621bce}} 
+uint8 {\bfseries I\+M\+U\+\_\+connected} [N\+\_\+\+I\+M\+U\+\_\+\+M\+AX]
+\item 
+\mbox{\label{globals_8h_a86272fcfcab512d38a11824196df4bbc}} 
+int {\bfseries imus\+\_\+data\+\_\+size}
+\item 
+\mbox{\label{globals_8h_aca96c483c3e269e3805aa861ced0aef5}} 
+int {\bfseries single\+\_\+imu\+\_\+size} [N\+\_\+\+I\+M\+U\+\_\+\+M\+AX]
+\item 
+\mbox{\label{globals_8h_a86bb710944c248adeda63ded90db872a}} 
+struct \textbf{ st\+\_\+imu} {\bfseries g\+\_\+imu} [N\+\_\+\+I\+M\+U\+\_\+\+M\+AX]
+\item 
+\mbox{\label{globals_8h_a9fa446daf1b4e3d6cc394fdc88e0ff63}} 
+struct \textbf{ st\+\_\+imu} {\bfseries g\+\_\+imu\+New} [N\+\_\+\+I\+M\+U\+\_\+\+M\+AX]
+\item 
+\mbox{\label{globals_8h_a187c605f3898cf11e09f6f469c265920}} 
+uint8 {\bfseries Accel} [N\+\_\+\+I\+M\+U\+\_\+\+M\+AX][6]
+\item 
+\mbox{\label{globals_8h_a49dba88a31d1b3b4190065b9ef1649fe}} 
+uint8 {\bfseries Gyro} [N\+\_\+\+I\+M\+U\+\_\+\+M\+AX][6]
+\item 
+\mbox{\label{globals_8h_a5d88408ccb73729f049a52b4d1daaadf}} 
+uint8 {\bfseries Mag} [N\+\_\+\+I\+M\+U\+\_\+\+M\+AX][6]
+\item 
+\mbox{\label{globals_8h_a1e598e1bdae5fe927fbd1f396161f3a6}} 
+uint8 {\bfseries Mag\+Cal} [N\+\_\+\+I\+M\+U\+\_\+\+M\+AX][3]
+\item 
+\mbox{\label{globals_8h_af5f2d49e123a057d358297a34194ebdc}} 
+uint8 {\bfseries Temp} [N\+\_\+\+I\+M\+U\+\_\+\+M\+AX][2]
+\item 
+\mbox{\label{globals_8h_ac0c4d3f055f976340a0e604e58b95a8a}} 
+float {\bfseries Quat} [4]
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Global definitions and macros are set in this file. 
+
+\begin{DoxyDate}{Date}
+February 01, 2018 
+\end{DoxyDate}
+\begin{DoxyAuthor}{Author}
+{\itshape Centro \char`\"{}\+E.\+Piaggio\char`\"{}} 
+\end{DoxyAuthor}
+\begin{DoxyCopyright}{Copyright}
+(C) 2012-\/2016 qbrobotics. All rights reserved. 
+
+(C) 2017-\/2018 Centro \char`\"{}\+E.\+Piaggio\char`\"{}. All rights reserved. 
+\end{DoxyCopyright}

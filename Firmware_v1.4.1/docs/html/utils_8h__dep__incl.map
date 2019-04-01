@@ -1,0 +1,10 @@
+<map id="utils.h" name="utils.h">
+<area shape="rect" id="node2" href="$globals_8h.html" title="Global definitions and macros are set in this file. " alt="" coords="213,80,288,107"/>
+<area shape="rect" id="node4" href="$command__processing_8c.html" title="Command processing functions. " alt="" coords="5,229,165,256"/>
+<area shape="rect" id="node5" href="$interruptions_8c.html" title="Interruption functions are in this file. " alt="" coords="195,229,299,256"/>
+<area shape="rect" id="node6" href="$main_8c.html" title="Firmware main file. " alt="" coords="575,229,636,256"/>
+<area shape="rect" id="node3" href="$command__processing_8h.html" title="Definition of command processing functions. " alt="" coords="171,155,331,181"/>
+<area shape="rect" id="node7" href="$_i_m_u__functions_8h.html" title="Definition of IMU module functions. " alt="" coords="453,155,568,181"/>
+<area shape="rect" id="node9" href="$globals_8c.html" title="Global variables. " alt="" coords="355,155,429,181"/>
+<area shape="rect" id="node8" href="$_i_m_u__functions_8c.html" title="Implementation of IMU module functions. " alt="" coords="436,229,551,256"/>
+</map>
